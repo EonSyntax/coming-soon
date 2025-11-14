@@ -339,11 +339,11 @@ h2 {
 /* =Responsive Styles
 -------------------------------------------------------------- */
 
-@media (max-width: 320px) {
+@media (max-width: 399px) {
 	/* HERO */
 	h1 { font-size: 40px; line-height: 40px; }
-	#countdown div span {font-size: 24px; line-height: 34px;}
-	.sub-title { font-size: ; line-height: ; margin-top: 10px; }
+	#countdown div span {font-size: 24px; line-height: 34px; font-weight: 400;}
+	.sub-title { font-size: ; line-height: ; margin-top: 10px; font-weight: bolder; color: rgb(85, 46, 46);}
 	/* TITLE & CONTACT */
 	.title { top: 15%;}
 	.contact .icons { margin-bottom: 0px; }
@@ -421,7 +421,7 @@ h2 {
 	/* HERO */
 	h1 { font-size: 40px; line-height: 40px; }
 	#countdown div span {font-size: 24px; line-height: 34px;}
-	.sub-title { font-size: ; line-height: ; margin-top: 10px; }
+	.sub-title { font-size: ; line-height: ; margin-top: 10px; font-weight: bolder; color: rgb(85, 46, 46);}
 	/* TITLE & CONTACT */
 	.title { top: 15%;}
 	.contact .icons { margin-bottom: 0px; }
@@ -497,7 +497,7 @@ h2 {
 @media all and (min-width: 700px) {
 	/* HERO */
 	h1 { font-size: 90px; line-height: 90px; }
-	.sub-title { font-size: 20px; line-height: 20px; margin-top: 10px; }
+	.sub-title { font-size: 20px; line-height: 20px; margin-top: 10px; font-weight: bolder; color: rgb(85, 46, 46);}
 	/* TITLE & CONTACT */
 	.title { top: 18%;}
 	.line { margin-top: 20px; }
@@ -582,7 +582,7 @@ h2 {
 
 	#countdown div span {font-size: 34px; line-height: 34px;}
 	
-	.sub-title { font-size: 20px; line-height: 20px; margin-top: 20px; }
+	.sub-title { font-size: 25px; line-height: 20px; margin-top: 20px; font-weight: bolder; color: rgb(85, 46, 46);}
 	/* TITLE & CONTACT */
 	.title { top: 15%;}
 	.contact { bottom: 8%; }
@@ -663,7 +663,7 @@ h2 {
 	/* HERO */
 	h1 { font-size: 150px; line-height: 150px; }
 	#countdown div span {font-size: 44px; line-height: 44px;}
-	.sub-title { font-size: 25px; line-height: 25px; margin-top: 20px; }
+	.sub-title { font-size: 25px; line-height: 25px; margin-top: 20px; font-weight: bolder; color: rgb(85, 46, 46);}
 	/* SIZES */
 	.sphere img{
 		-webkit-transform: scale(1);
@@ -773,7 +773,7 @@ h2 {
 @media all and (min-width: 1400px) {
 	/* HERO */
 	h1 { font-size: 160px; line-height: 160px; }
-	.sub-title { font-size: 25px; line-height: 25px; margin-top: 20px; }
+	.sub-title { font-size: 25px; line-height: 25px; margin-top: 20px; font-weight: bolder; color: rgb(85, 46, 46);}
 	/* POSITIONING */
 	.depth-5 {
 		right: -10%;
@@ -851,14 +851,14 @@ h2 {
 	/* HERO */
 	h1 { font-size: 180px; line-height: 180px; }
 	#countdown div span {font-size: 54px; line-height: 54px;}
-	.sub-title { font-size: 25px; line-height: 25px; margin-top: 25px; }
+	.sub-title { font-size: 25px; line-height: 25px; margin-top: 25px; font-weight: bolder; color: rgb(85, 46, 46);}
 }
 
 
 @media all and (min-width: 1920px) {
 	/* HERO */
 	h1 { font-size: 200px; line-height: 200px; }
-	.sub-title { font-size: 30px; line-height: 30px; margin-top: 30px; }
+	.sub-title { font-size: 30px; line-height: 30px; margin-top: 30px; font-weight: bolder; color: rgb(85, 46, 46);}
 	/* POSITIONING */
 	.depth-5 {
 		right: -10%;
